@@ -51,4 +51,11 @@ apiKey: apiKey
 
 ![Screenshot](./screenshot.PNG?raw=true )
 
+### Other Usefull Link
+
+[Hapi-Mongoose-Angular-Node.js] (https://github.com/gauravgupta90/Hapi-Mongoose-Angular-Node.js)
+
+[Passport-Auth-Hapi.js-Mongoose] (https://github.com/gauravgupta90/Passport-Auth-Hapi.js-Mongoose)
+
+[Token-Based-Auth-With-User-Roles-Hapi-Mongoose-Mongodb-with-email-verification-and-forgot-password] (https://github.com/gauravgupta90/Token-based-Auth-with-user-role-in-Hapi-Mongoose-Mongodb-with-email-verification-and-forgot-password)
 
